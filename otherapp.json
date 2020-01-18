@@ -1,0 +1,14 @@
+{
+	"activated" : true,
+	"data" :
+	[
+		{
+			"package_name": "com.nevosoft.mylittleplanet",
+			"url_image": "https://www.googleapis.com/drive/v3/files/1kV80SHiU_pmXcT8x2Wjp0gNndERUm97z?alt=media&key=AIzaSyB955xahIa4Wu2JagVSrKdpkMBr884Ux6Y"
+		},
+		{
+			"package_name": "com.playflock.indicatfb",
+			"url_image": "https://www.googleapis.com/drive/v3/files/1-tG6asWI4abNkub80I8kIxFNeZqwwdWe?alt=media&key=AIzaSyB955xahIa4Wu2JagVSrKdpkMBr884Ux6Y"
+		}
+	]
+}
